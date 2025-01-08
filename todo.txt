@@ -1,0 +1,19 @@
+Adding firebase to android
+Adding firebase to web
+Making Firebase work on All Platforms
+Structuring Folders
+Handling signed-in users
+Login Page - UI Design
+Register Page - UI Design
+Authentication Coding - Registering User
+Firebase Firestore Structure Showcase
+Debugging Shared Preference Problem
+Authentication Coding - Login Method
+Home Screen -  UI Design
+Profile Page
+Home Screen - Coding it up
+Creating Group - Code
+Designing Chat Page
+Group Info Page
+Search Page
+Chat Screen - Finishing it up
